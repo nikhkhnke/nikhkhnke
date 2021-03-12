@@ -2,7 +2,7 @@
 - 👀 I’m interested in C++, Core Java
 - 🌱 I’m currently learning Salesforce Development
 - 💞️ I’m looking to collaborate on Salesforce
-- 📫 How to reach me ...iamjacksparrow14@gmail.com
+- 📫 How to reach me iamjacksparrow14@gmail.com
 
 <!---
 nikhkhnke/nikhkhnke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
