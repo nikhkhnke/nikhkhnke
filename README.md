@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nikhkhnke
-- 👀 I’m interested in Software Development
+- 👀 I’m interested in C++, Core Java
 - 🌱 I’m currently learning Salesforce Development
 - 💞️ I’m looking to collaborate on Salesforce
 - 📫 How to reach me ...iamjacksparrow14@gmail.com
